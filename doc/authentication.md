@@ -1,6 +1,6 @@
 Authentication
 ===
-
+it has acquirer and issuer box but while transaction it goes in attala kpe for authentication
 Custom authentication is supported via storage's authorize function (see storage.md for more info):
 
 ```javascript
